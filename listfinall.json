@@ -77,7 +77,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x36861654d8E5e0a641085603a8E7cb88E5419d31",
+      "address": "0x332C7aC34580dfEF553B7726549cEc7015C4B39b",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -85,7 +85,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x68b56283f6C6AC75489B63D09288Dfa2bea104A1",
+      "address": "0x3861e9F29fcAFF738906c7a3a495583eE7Ca4C18",
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
@@ -93,7 +93,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x8Cf18401B5cC31176bE8F9d6f586a64506B583F1",
+      "address": "0x0aCBd07e458F228d4869066b998a0F55F36537B2",
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
