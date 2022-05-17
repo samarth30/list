@@ -74,6 +74,38 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x36861654d8E5e0a641085603a8E7cb88E5419d31",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=006"
+    },
+    {
+      "chainId": 4,
+      "address": "0x68b56283f6C6AC75489B63D09288Dfa2bea104A1",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=006"
+    },
+    {
+      "chainId": 4,
+      "address": "0x8Cf18401B5cC31176bE8F9d6f586a64506B583F1",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://seeklogo.com/images/T/tether-usdt-logo-FA55C7F397-seeklogo.com.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ]
 }
